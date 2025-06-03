@@ -1,0 +1,65 @@
+After categorizing and sorting the grocery items, I present to you the organized list below:
+
+**Produce:**
+• Apples
+• Bananas
+• Bell Peppers
+• Broccoli
+• Carrots
+• Garlic
+• Lettuce
+• Mushrooms
+• Onions
+• Potatoes
+• Spinach
+• Strawberries
+• Tomatoes
+
+**Dairy:**
+1. Cheese
+2. Eggs
+3. Milk
+4. Yogurt
+
+**Meat:**
+1. Chicken Breast
+2. Ground Beef
+3. Salmon
+4. Shrimp
+5. Sausages
+
+**Bakery:**
+• Bread
+• Flour
+• Pasta
+
+**Pantry:**
+1. Almonds
+2. Coffee
+3. Cereal
+4. Granola Bars
+5. Honey
+6. Jam
+7. Oatmeal
+8. Peanut Butter
+9. Rice
+10. Sugar
+11. Olive Oil
+
+**Beverages:**
+• Coffee
+• Orange Juice
+• Soda
+• Tea
+
+**Frozen:**
+1. Ice Cream
+
+**Personal Care:**
+1. Dish Soap
+2. Laundry Detergent
+3. Shampoo
+4. Toilet Paper
+5. Toothpaste
+
+Note: Some items, such as chocolate and chips, could fit into multiple categories (e.g., baking or pantry). However, for the purpose of this exercise, I have placed them in their most obvious category.
